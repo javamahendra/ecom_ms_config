@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: ECOMPRODUCT_1P
+      host: localhost
+      port: 27017
