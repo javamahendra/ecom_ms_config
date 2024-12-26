@@ -15,3 +15,9 @@ management:
   endpoint:
     health:
       show-details: always
+
+
+# logging - logs generation directory
+app:
+  logs:
+    fileLocation: D:\Apps\ecom-microservice\logs # Path to your local machine directory
